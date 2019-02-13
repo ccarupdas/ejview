@@ -1,0 +1,71 @@
+{
+  "id": 262,
+  "parent_id": 0,
+  "status": "processing",
+  "currency": "USD",
+  "version": "3.4.5",
+  "prices_include_tax": false,
+  "date_created": {
+    "date": "2018-11-24 09:13:43.000000",
+    "timezone_type": 1,
+    "timezone": "+00:00"
+  },
+  "date_modified": {
+    "date": "2018-11-24 09:13:43.000000",
+    "timezone_type": 1,
+    "timezone": "+00:00"
+  },
+  "discount_total": "0",
+  "discount_tax": "0",
+  "shipping_total": "0.00",
+  "shipping_tax": "0",
+  "cart_tax": "0",
+  "total": "193.80",
+  "total_tax": "0",
+  "customer_id": 0,
+  "order_key": "wc_order_5bf916473890a",
+  "billing": {
+    "first_name": "test",
+    "last_name": "test",
+    "company": "",
+    "address_1": "test",
+    "address_2": "",
+    "city": "Washington",
+    "state": "WA",
+    "postcode": "20005",
+    "country": "US",
+    "email": "test2@codeclouds.com",
+    "phone": "0123456789"
+  },
+  "shipping": {
+    "first_name": "",
+    "last_name": "",
+    "company": "",
+    "address_1": "",
+    "address_2": "",
+    "city": "",
+    "state": "",
+    "postcode": "",
+    "country": ""
+  },
+  "payment_method": "cod",
+  "payment_method_title": "Cash on delivery",
+  "transaction_id": "",
+  "customer_ip_address": "180.87.240.74",
+  "customer_user_agent": "mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/69.0.3497.100 safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": null,
+  "date_paid": null,
+  "cart_hash": "80e03f925074980451e38376aa844dc5",
+  "number": "262",
+  "meta_data": [],
+  "line_items": {
+    "147": {},
+    "148": {}
+  },
+  "tax_lines": [],
+  "shipping_lines": [],
+  "fee_lines": [],
+  "coupon_lines": []
+}
