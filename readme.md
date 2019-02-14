@@ -17,7 +17,7 @@ Install nodemon for real time debug Dev depandency
 	    "start": "node ./bin/www"
 	  },
 --------------------------------------------------
-	--<b>TO</b>
+	TO
 --------------------------------------------------
 	"scripts": {
 	    "start": "node ./bin/www",
@@ -27,7 +27,7 @@ Install nodemon for real time debug Dev depandency
 <!-- Enable Babel For Multi Browser Support -->
   --npm install @babel/core @babel/node --save-dev
 <!-- Enable DOT ENV -->
-npm install dotenv --save
+	npm install dotenv --save
 ================================
 GIT
 ================================
@@ -39,5 +39,8 @@ GIT
 	--git config --global --list
 	--git config --local --list
 ==================================
-RefURLs: https://expressjs.com/en/guide/routing.html
-https://www.robinwieruch.de/minimal-node-js-babel-setup/
+REFERANCE URLS:
+==================================
+	https://expressjs.com/en/guide/routing.html
+	https://www.robinwieruch.de/minimal-node-js-babel-setup/
+============================================================
