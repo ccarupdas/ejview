@@ -23,12 +23,11 @@ Install nodemon for real time debug Dev depandency
 	    "start": "node ./bin/www",
 	    "devstart": "nodemon ./bin/www"
 	  },
--------------------------
+--------------------------------------------------
 <!-- Enable Babel For Multi Browser Support -->
   --npm install @babel/core @babel/node --save-dev
 <!-- Enable DOT ENV -->
 	npm install dotenv --save
-================================
 GIT
 ================================
 	--git push --set-upstream https://github.com/ccarupdas/ejview.git master
@@ -38,9 +37,7 @@ GIT
 	--git push origin staging
 	--git config --global --list
 	--git config --local --list
-==================================
 REFERANCE URLS:
 ==================================
 	https://expressjs.com/en/guide/routing.html
 	https://www.robinwieruch.de/minimal-node-js-babel-setup/
-============================================================
