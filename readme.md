@@ -27,7 +27,12 @@ npm install dotenv --save
 GIT
 ================================
 git push --set-upstream https://github.com/ccarupdas/ejview.git master
+git checkout staging
 git rm package-lock.json
+git config --local credential.helper ""
+git push origin staging
+git config --global --list
+git config --local --list
 ===
 RefURLs: https://expressjs.com/en/guide/routing.html
 https://www.robinwieruch.de/minimal-node-js-babel-setup/
